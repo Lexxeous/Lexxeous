@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a>
-  <a href="https://shields.io/"><img src="https://img.shields.io/badge/Version:-0.0.3-GREEN.svg" alt="Generic badge"></a>
+  <a href="https://shields.io/"><img src="https://img.shields.io/badge/Version:-0.0.4-GREEN.svg" alt="Generic badge"></a>
 </p>
  
 <!-- 
